@@ -1,0 +1,37 @@
+#forms {
+    background: url('/assets/images/backgrounds/march.jpg') no-repeat;
+    padding-left:20%;
+    padding-right:20%;
+    background-size: cover;
+    padding-bottom:50px;
+    overflow: hidden;
+    height: 100%;
+    .content {
+
+        .form-wrapper {
+
+        }
+
+        .form-data-wrapper {
+            margin-left: 16px;
+
+            .json-data-wrapper {
+                overflow: hidden;
+
+                pre {
+                    font-size: 16px;
+                }
+            }
+        }
+    }
+}
+
+// RESPONSIVE
+@media screen and (max-width: $layout-breakpoint-sm) {
+
+    #forms {
+        padding-left:5%;
+        padding-right:5%;
+       
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "REGISTER": {
+        "INTRO_TITLE": "Your Address on the Web",
+        "INTRO_DESCRIPTION": "Show and tell the world who you are as a fashion blogger, fashion designer, personal stylist or personal shopper.",
+        "TITLE": "Build your personal brand",
+        "DESCRIPTION": "Sign up now",
+        "NAME": "Name",
+        "EMAIL": "Email",
+        "PASSWORD": "Password",
+        "PASSWORD_CONFIRM": "Password (Confirm)",
+        "READ_ACCEPT": "I read and accept",
+        "TERMS_COND": "terms and conditions",
+        "CREATE_ACCOUNT": "CREATE MY ACCOUNT",
+        "ALREADY_HAVE": "Already have an account?",
+        "LOGIN": "Log in",
+        "WITH_FACEBOOK": "Facebook",
+        "WITH_EMAIL": "Sign up with email",
+        "OR": "Or",
+        "ERRORS": {
+            "USERNAME_REQUIRED": "Username field is required",
+            "EMAIL_REQUIRED": "Email field is required",
+            "EMAIL_MUST_VALID": "Email must be a valid e-mail address",
+            "PASSWORD_REQUIRED": "Password field is required",
+            "PASSWORD_CONFIRM_REQUIRED": "Password confirm field is required",
+            "TERMS_REQUIRED": "You must accept terms and conditions before submitting the form"
+        }
+    }
+}
